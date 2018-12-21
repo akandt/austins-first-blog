@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Opensans_reg';
+    src: url('fonts/OpenSans-Regular.ttf') format('truetype');
+}
+
+body {
+    background-color: #fafafa;
+    color: #313131;
+    font-family: Opensans_reg;
+}
