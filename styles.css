@@ -7,4 +7,17 @@ body {
     background-color: #fafafa;
     color: #313131;
     font-family: Opensans_reg;
+    display: flex;
+    
+}
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    background-color: #fafafa;
+    padding: 20px;
+    max-width: 300px;
+}
+.maininfo {
+    max-width: 600px;
+    padding: 30px;
 }
